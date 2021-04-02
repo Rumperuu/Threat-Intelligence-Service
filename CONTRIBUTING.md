@@ -33,7 +33,7 @@ be responded to, but this is not guaranteed.
 
 - Translations are welcome!
 
-[new-issue]: https://github.com/Rumperuu/Threat-Intelligence-Service/issues/new
+[new-issue]: https://github.com/Rumperuu/Threat-Intelligence-Service/issues/new/choose
 [github-flow]: https://githubflow.github.io/
 [pull-request]: https://github.com/Rumperuu/Threat-Intelligence-Service/compare
 [conventional]: https://www.conventionalcommits.org
